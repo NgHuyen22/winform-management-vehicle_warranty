@@ -1,0 +1,6 @@
+E:\HTQL_BHX\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+E:\HTQL_BHX\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\HTQL_BHX\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\HTQL_BHX\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\HTQL_BHX\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\HTQL_BHX\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache

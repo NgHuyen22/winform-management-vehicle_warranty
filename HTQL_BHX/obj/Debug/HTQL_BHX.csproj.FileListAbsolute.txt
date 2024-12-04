@@ -1,0 +1,16 @@
+E:\HTQL_BHX\HTQL_BHX\bin\Debug\HTQL_BHX.exe.config
+E:\HTQL_BHX\HTQL_BHX\bin\Debug\HTQL_BHX.exe
+E:\HTQL_BHX\HTQL_BHX\bin\Debug\HTQL_BHX.pdb
+E:\HTQL_BHX\HTQL_BHX\obj\Debug\HTQL_BHX.csproj.AssemblyReference.cache
+E:\HTQL_BHX\HTQL_BHX\obj\Debug\HTQL_BHX.Properties.Resources.resources
+E:\HTQL_BHX\HTQL_BHX\obj\Debug\HTQL_BHX.csproj.GenerateResource.cache
+E:\HTQL_BHX\HTQL_BHX\obj\Debug\HTQL_BHX.csproj.CoreCompileInputs.cache
+E:\HTQL_BHX\HTQL_BHX\obj\Debug\HTQL_BHX.exe
+E:\HTQL_BHX\HTQL_BHX\obj\Debug\HTQL_BHX.pdb
+E:\HTQL_BHX\HTQL_BHX\obj\Debug\HTQL_BHX.Login.resources
+E:\HTQL_BHX\HTQL_BHX\obj\Debug\HTQL_BHX.Index.resources
+E:\HTQL_BHX\HTQL_BHX\obj\Debug\HTQL_BHX.View_vehicle_information.resources
+E:\HTQL_BHX\HTQL_BHX\obj\Debug\HTQL_BHX.Manage_warranty.resources
+E:\HTQL_BHX\HTQL_BHX\obj\Debug\HTQL_BHX.Bill_management.resources
+E:\HTQL_BHX\HTQL_BHX\obj\Debug\HTQL_BHX.Customer.resources
+E:\HTQL_BHX\HTQL_BHX\obj\Debug\HTQL_BHX.staff_management.resources
